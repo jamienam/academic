@@ -1,11 +1,12 @@
-### your site title here
+# Site Settings
+title: "Jamie Nam"
+description: "Personal Academic Website"
+email: jamie.nam01@gmail.com
 
-title: Your Name
-description: subtitle | affiliations | motto
-
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+# Base URL: empty for user site (repository named jamienam.github.io)
+# This deploys to https://jamienam.github.io/ instead of a subdirectory
+baseurl: ""
+url: "https://jamienam.github.io"
 
 # Pagination
 paginate: 4
@@ -13,22 +14,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+# Leave fields empty or remove them to hide the corresponding button
+linkedin: "jamienam"
+researchgate: "Jamie-Nam-2"
+github: "jamienam"
 
 # Markdown
 highlighter: rouge
 markdown: kramdown
-
-# Tracker
-analytics:
 
 # optimization -> compress.html
 compress_html:
