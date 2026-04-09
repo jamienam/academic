@@ -3,7 +3,7 @@ title: Jamie Nam
 description: PhD Researcher in Management Information Systems (MIS) | Personal Academic Website
 author: Jamie Nam
 
-baseurl: /academic_website #name of GitHub repository
+baseurl: /academic
 url: "https://jamienam.github.io" #custom url to be used instead of GitHub repository
 email: jamie.nam@hec.ca
 
