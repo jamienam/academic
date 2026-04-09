@@ -3,11 +3,11 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.JPEG
 published: true
 ---
 
-I am a PhD Researcher at HEC Montreal's IT program, passionate about integrating informatics, business, and user-centered design to improve healthcare accessibility by addressing technology adoption barriers!
+I am a PhD Researcher at HEC Montreal's IT program, passionate about integrating informatics, business, and user-centered design to improve healthcare accessibility by addressing technology adoption challenges.
 
 **Research Areas of Interest:**
 - Technology adoption in healthcare
