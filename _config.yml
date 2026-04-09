@@ -1,11 +1,11 @@
 ### your site title here
+title: Jamie Nam
+description: PhD Researcher in [Your Field] | Personal Academic Website
+author: Jamie Nam
 
-title: Your Name
-description: subtitle | affiliations | motto
-
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /academic_website #name of GitHub repository
+url: "https://jamienam.github.io" #custom url to be used instead of GitHub repository
+email: jamie.nam@hec.ca
 
 # Pagination
 paginate: 4
@@ -13,10 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: "jamienam"
 stackoverflow: "#"
-github: "#"
-researchgate: "#"
+github: "jamienam"
+researchgate: "Jamie-Nam-2"
 orcid: "#"
 quora: "#"
 instagram: "#"
