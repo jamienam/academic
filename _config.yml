@@ -1,6 +1,6 @@
 ### your site title here
 title: Jamie Nam
-description: PhD Researcher in [Your Field] | Personal Academic Website
+description: PhD Researcher in Management Information Systems (MIS) | Personal Academic Website
 author: Jamie Nam
 
 baseurl: /academic_website #name of GitHub repository
@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "jamienam"
-stackoverflow: "#"
+linkedin: "www.linkedin.com/in/jamienam"
 github: "jamienam"
-researchgate: "Jamie-Nam-2"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+orcid: "0009-0006-1416-4622"
 
 # Markdown
 highlighter: rouge
